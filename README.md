@@ -19,7 +19,7 @@ Here, the dataset consist of
 Just import the dataset in your program and train it on some examples
 
 Plot the net object using plot(net)
-<img src="https://github.com/maazrk/DeepDiagnosis/Brain-Informatics-using-Deep-Learning/blob/master/NeuralNetPlot.png" width="200">
+<img src="https://github.com/maazrk/Brain-Informatics-using-Deep-Learning/blob/master/NeuralNetPlot.png" width="200">
 
 ##Note
 
