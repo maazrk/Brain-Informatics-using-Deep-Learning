@@ -15,7 +15,7 @@ Use install.packages("neuralnet") and use library('neuralnet') to use it.
 
 ##Dataset
 
-Here, the dataset consist of 
+Here, the dataset consist of soldiers' EEG when they are placed in a simulation to record brain's activity in different situations
 
 ##Usage
 
@@ -26,6 +26,6 @@ Plot the net object using plot(net)
 
 ##Note
 
-Since the dataset consist is very small, a reliable level of accuracy is not achieved
+Since the dataset used is very small, a reliable level of accuracy is not achieved
 
 
